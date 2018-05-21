@@ -7,6 +7,8 @@ Para aprender mais.
 Local para aprender mais palavras com o Maurício
 
 - Português:
-  - Opa, beleza ?
+  - Opa, beleza?
+  - Olá, tudo bem?
 - Japonês:
-  - 
+  - 元気？げんき？Genki?
+
