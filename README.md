@@ -6,7 +6,9 @@ Para aprender mais.
 
 Local para aprender mais palavras com o Maurício
 
-- Português:
-  - Opa, beleza ?
-- Japonês:
-  - 
+| Português | Japonês |
+|-----------|---------|
+|  Olá, como vai ?       |         |
+|           |         |
+|           |         |
+|           |         |
